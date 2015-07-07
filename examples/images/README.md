@@ -1,4 +1,3 @@
-
 This file provides the necessary redirections to the appropriate license
 information for the images under the folder `examples/images` in
 [this](https://github.com/arrayfire/assets) repository.
@@ -11,3 +10,5 @@ information for the images under the folder `examples/images` in
 * <a title="CC0 Public Domain" href="https://pixabay.com/en/winter-road-black-and-white-84303/"><img width="128" src="https://pixabay.com/get/220b06db6ae6d3e38e27/1435348786/winter-84303_1280.jpg?direct"/></a> trees\_ctm.jpg
 * <a title="CC0 Public Domain" href="https://pixabay.com/en/smoke-colors-wallpaper-662747/"><img width="128" src="https://pixabay.com/get/1802c519b820edd44162/1435349342/smoke-662747.png?direct"/></a> fight.jpg
 * <a title="By Power3d (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALovely_spider.jpeg"><img width="128" alt="Lovely spider" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lovely_spider.jpeg/512px-Lovely_spider.jpeg"/></a> spider.jpg
+* <a title="Public Domain Image" href="http://www.publicdomainpictures.net/view-image.php?image=15048">Vegetable Woman</a> vegetable-womand.jpg
+* <img width="128" src="http://9prady9.github.io/sketches/liz.jpg"/><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> `arrow.jpg`
